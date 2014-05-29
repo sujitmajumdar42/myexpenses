@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+	<name>User_Expenses</name>
+	<created>3rd May,2014</created>
+	<version>1.0</version>
+	<author>Sujit</author>
+	<purpose>Add, View,,Update Expenses of User</purpose>
+	<source>
+		<files>
+			<file>
+				<name>Config_DB.php</name>
+				<type>db_config</type>
+			</file>
+			<file>
+				<name>Session_Config.php</name>
+				<type>session_config</type>
+			</file>
+			<file>
+				<name>DAO_Expenses_Detail.php</name>
+				<type>dao</type>
+			</file>
+			<file>
+				<name>BO_Expenses_Detail.php</name>
+				<type>bo</type>
+			</file>
+			<file>
+				<name>TO_User_Expenses.php</name>
+				<type>to</type>
+			</file>
+			<file>
+				<name>Serv_router.php</name>
+				<type>router</type>
+			</file>
+		</files>
+	</source>
+</module>

@@ -1,0 +1,6 @@
+{"expenseList": [
+        { "expenseID":"1400176729" , "userID":"sujit1234" , "date":"2011-01-02", "purpose":"grossory", "total":"100", "pay":"0", "receive":"80", "status":"Pending"},
+        { "expenseID":"1400296545" , "userID":"sujit1234" , "date":"2019-01-02", "purpose":"nonveg", "total":"120", "pay":"30", "receive":"0", "status":"Pending"},
+        { "expenseID":"1400296900" , "userID":"sujit1234" , "date":"2010-02-02", "purpose":"transportation", "total":"120", "pay":"0", "receive":"96", "status":"Pending"},
+        { "expenseID":"1400356350" , "userID":"sujit1234" , "date":"2010-01-02", "purpose":"grossory", "total":"120", "pay":"24", "receive":"0", "status":"Pending"}
+ ]}
