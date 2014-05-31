@@ -9,11 +9,11 @@ define('DB_USER_PASS', 'admin@123');
 define('DB_NAME', 'a7519541_dbexp');
 
 /**
- * <u>Database Configuration</u>
+ * Database Configuration
  * This class creates a database connection and<br/>
  * this class is used to execute SQL Query
  */
-class dbConfig {
+class DbConfig {
     /* Default constructor
      * It is used to load the database and create a connection pool
      */

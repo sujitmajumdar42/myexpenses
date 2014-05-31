@@ -7,7 +7,7 @@
  * Version : 1.0
  */
 
-class Dependants {
+class DependantsTO {
     private $userID;
     private $totDep;
     private $dependants;
