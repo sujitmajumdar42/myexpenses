@@ -29,7 +29,7 @@ class DbConfig {
      * @throws SQL Exception
      */
     function execute($sql) {
-        return mysql_query($sql) or die(mysql_error());
+        $result = mysql_query($sql) or die(mysql_error());
     }
 
 }
